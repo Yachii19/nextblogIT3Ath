@@ -25,6 +25,7 @@ export default function Home() {
             <li>Playing video games</li>
             <li>Watching science videos</li>
             <li>Coding</li>
+            <li>Watching anime/movies</li>
           </ul>
 
           <h4>Favorite Music</h4>
